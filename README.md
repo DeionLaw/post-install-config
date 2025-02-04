@@ -104,3 +104,21 @@ Before getting started, I want to make you aware of the difference between the a
   You can set your own custom SLAs but I will set Sev-B to be a 4 hour grace period, 24/7, and Sev-C to be business hours at 8 hour grace period.
 </p>
 
+![Screenshot 2025-02-03 185826](https://github.com/user-attachments/assets/73ee377f-6f09-4e7a-b79e-2be669e3cbdd)
+
+<p>
+  Lastly, we are going to create some Help Topics that will help orgainze the tickets. In the Admin Panel head to 'Manage' then 'Help Topics' and click 'Add New Help Topic'.
+</p>
+
+![Screenshot 2025-02-03 190332](https://github.com/user-attachments/assets/dfad1f6c-b2bb-4e81-88aa-74600886ff33)
+
+<p>
+  I am going to make mine 'Business Critical Outage', 'Personal Computer Issues', 'Password Reset', 'Equipment Request' and 'Other'. The first 3 will get the 'Parent Topic' of 'Report a Problem', 'Equipment Request' will get 
+</p>
+
+![Screenshot 2025-02-03 190543](https://github.com/user-attachments/assets/2f8a3348-5fa1-4039-be91-e9897304b27a)
+
+<p>
+  You should now have something similar to this. With that set up, everything is good to go to use in an at least practice environment!
+</p>
+
