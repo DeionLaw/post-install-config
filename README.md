@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Pre-Reqs</h2>
 
-- Everything listed in the pre-reqs (https://github.com/DeionLaw/osticket-prereqs)
+- Completed install (https://github.com/DeionLaw/osticket-prereqs)
 - Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
 - End User osTicket URL: http://localhost/osTicket
 
