@@ -15,7 +15,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Pre-Reqs</h2>
 
 - Everything listed in the pre-reqs (https://github.com/DeionLaw/osticket-prereqs)
 - Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
